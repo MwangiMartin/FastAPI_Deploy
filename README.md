@@ -38,6 +38,7 @@ Run the following command.
 ```
 sudo apt-get install -y python3-pip python3-venv nginx
 ```
+TODO: CONFIGURE NGINX
 
 #### 5. Install fastAPI, uvicorn and gunicorn
 We will first start with creating a directory where all our files will be hosted. We do this using the following command
